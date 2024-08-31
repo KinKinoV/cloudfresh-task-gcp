@@ -1,3 +1,6 @@
+# cloudfresh-test-task
+Collection of completed test tasks for CloudFresh Internship. Part 1 is available [here](https://github.com/KinKinoV/cloudfresh-test-task)
+
 # Part 2 - Networking
 In this part of the technical task I created infrastructure in the GCP that consists of:
 1. VPC
